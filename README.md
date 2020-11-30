@@ -8,5 +8,6 @@ SJN - Shortest Job Next :Non-preemptive
 
 Priority: Preemptive
 
-![Data Set](relative/path/to/DataSet.png?raw=true "Data Set")
-![Output](relative/path/to/output.png?raw=true "Output")
+![Data Set](https://github.com/Jasonx235/Process-Management-Algorithms/blob/main/dataSet.PNG?raw=true)
+
+![Output](https://github.com/Jasonx235/Process-Management-Algorithms/blob/main/output.PNG?raw=true)
